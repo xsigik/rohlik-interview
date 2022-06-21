@@ -1,6 +1,6 @@
 # Example React project
 
-Create a simple React app with your preferred technologies.
+Create a simple React app with Next.js and TypeScript, other technologies are up to you.
 
 ## Requirements:
 
