@@ -1,11 +1,12 @@
 # Example React project
 
-Create a simple React app with Next.js and TypeScript, other technologies are up to you.
+Create a simple React app with Next.js and TypeScript, other libraries (like component library) are up to you.
 
 ## Requirements:
 
-- one page with products fetched locally from `products.json`
-- products displayed in a grid (css grid / flex)
-- search field for filtering products by name
-- each product has buttons "add" and "remove" from the cart
-- simple cart section with an overview of added products and total price, state of the cart is persisted in window.localStorage
+- one dashboard page which loads products.json asynchronously, e.g. via fetch()  from public folder or from API route
+- products are displayed in a grid (css grid / flex)
+- products can be filtered by name using the search field
+- each product card has buttons "add" and "remove" from the cart
+- the state of the cart is persisted into window.localStorage
+- to submit your code use Github, Gitlab, CodeSandbox, Stackblitz etc.
